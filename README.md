@@ -1,4 +1,4 @@
-# discord-music-player:
+ # discord-music-player:
 I create a bot in discord for playing music
 
 # 1. Folder structure:
